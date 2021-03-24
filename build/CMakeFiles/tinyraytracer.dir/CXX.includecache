@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/Рабочий стол/mipt/paraprog/raytracing/mytracer/tinyraytracer/geometry.h
+cmath
+-
+vector
+-
+cassert
+-
+iostream
+-
+
+/home/ilya/Рабочий стол/mipt/paraprog/raytracing/mytracer/tinyraytracer/tinyraytracer.cpp
+limits
+-
+cmath
+-
+iostream
+-
+fstream
+-
+vector
+-
+geometry.h
+/home/ilya/Рабочий стол/mipt/paraprog/raytracing/mytracer/tinyraytracer/geometry.h
+
