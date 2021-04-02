@@ -1,3 +1,0 @@
-/home/ilya/Рабочий стол/mipt/paraprog/raytracing/mytracer/tinyraytracer/build/CMakeFiles/rebuild_cache.dir
-/home/ilya/Рабочий стол/mipt/paraprog/raytracing/mytracer/tinyraytracer/build/CMakeFiles/edit_cache.dir
-/home/ilya/Рабочий стол/mipt/paraprog/raytracing/mytracer/tinyraytracer/build/CMakeFiles/tinyraytracer.dir
